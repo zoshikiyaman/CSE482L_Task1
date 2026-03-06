@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-color: #e1dcdc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background: #000000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #e3dede;
+    margin: 0 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 120px;
+    margin-left: 120px;
+    text-align: left;
+    font-size: 48px;
+    line-height: 1.4;
+}   
+
+button {
+    display: block;
+    margin-top: 10px;
+    margin-left: 120px;
+    padding: 10px 16px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button a {
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+button img {
+    width: 25px;
+    vertical-align: middle;
+}
