@@ -105,10 +105,8 @@ button img {
     color: #e1dcdc;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 25px;
-    height: 250px;
-    position: absolute;
+    height: 80px;
     padding: 20px;
-    z-index: 1;
 }
 
 .project1-description{
